@@ -22,4 +22,11 @@ body{
 .body{
     padding: 30px 0 0 290px;
 }
-.first 
+.first-list li:nth-child(1){
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 400;
+    text-decoration: line-through;
+    color: #273d46;
+}
