@@ -55,4 +55,5 @@ body{
 }
 .first-list li{
     margin-bottom: 13px;
+    background: url("img/check.png") no-repeat;
 }
