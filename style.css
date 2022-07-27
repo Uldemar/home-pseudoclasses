@@ -53,3 +53,6 @@ body{
     text-transform: uppercase;
     color: #273d46;
 }
+.first-list li{
+    margin-bottom: 13px;
+}
