@@ -22,7 +22,7 @@ body{
 .body{
     padding: 30px 0 0 290px;
 }
-.first-list li:nth-child(1){
+.first-list li:first-child{
     font-family: Arial;
     font-size: 20px;
     line-height: 36px;
@@ -43,5 +43,13 @@ body{
     line-height: 36px;
     font-weight: 400;
     font-style: italic;
+    color: #273d46;
+}
+.first-list li:last-child {
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 400;
+    text-transform: uppercase;
     color: #273d46;
 }
