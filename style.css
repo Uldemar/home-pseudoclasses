@@ -37,3 +37,11 @@ body{
     font-weight: 700;
     color: #273d46;
 }
+.first-list li:nth-child(3){
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 400;
+    font-style: italic;
+    color: #273d46;
+}
