@@ -66,3 +66,5 @@ body{
     background: url("img/check_red.png") no-repeat center left;
     color: #d55a5a
 }
+.first-list li:nth-child(3):hover {
+    font-style: normal;
