@@ -97,7 +97,7 @@ body{
     letter-spacing: 0.2em;
 }
 .hyperlink span{
-    padding: 0 25px 0 0;
+    padding: 0 50px 0 0;
     background: url("img/arrow.png") no-repeat right;
 
 }
