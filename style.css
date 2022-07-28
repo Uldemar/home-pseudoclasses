@@ -110,3 +110,6 @@ body{
 .hyperlink:hover {
     background-color: #3a5856;
 }
+.hyperlink:active {
+    background-color: #818181
+}
