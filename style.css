@@ -76,4 +76,6 @@ body{
 
 .hyperlink{
     background-color: rgba(128,183,179,0.54);
+    border-radius: 15px;
+    size: 199px 44px;
 }
