@@ -59,6 +59,9 @@ body{
     padding: 0 0 0 30px;
     background-size: 25px auto;
 }
+.first-list{
+    margin-bottom: 137px;
+}
 
 .first-list li:nth-child(1):hover {
     text-decoration: none;
