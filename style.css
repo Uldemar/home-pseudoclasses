@@ -73,3 +73,7 @@ body{
 .first-list li:nth-child(4):hover {
     text-transform: initial;
 }
+
+.hyperlink{
+    background-color: rgba(128,183,179,0.54);
+}
