@@ -77,6 +77,11 @@ body{
 .hyperlink{
     display: inline-block;
     background-color: rgba(128,183,179,0.54);
-    border-radius: 15px;
+    bfont-family: Arial;
+    font-size: 14px;
+    line-height: 40px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
     
 }
