@@ -82,6 +82,7 @@ body{
     max-width: 199px;
     max-height: 44px;
     margin-left: 0px;
+    margin-right: 5px;
 }
 .hyperlink{
     display: inline-block;
