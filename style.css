@@ -90,7 +90,7 @@ body{
     width: 199px;
     height: 44px;
     box-shadow: 0px 6px 40px 0px rgba(128,183,179,0.54);
-    background: url("img/arrow.png") no-repeat right;
+    background: url("img/arrow.png") no-repeat right rgba(128,183,179,0.54);
 }
 .hyperlink span{
     font-family: Arial;
