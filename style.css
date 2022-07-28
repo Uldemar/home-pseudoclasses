@@ -64,4 +64,5 @@ body{
 }
 .first-list li:nth-child(2):hover {
     background: url("img/check_red.png") no-repeat center left;
+    color: red;
 }
