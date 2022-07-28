@@ -94,9 +94,11 @@ body{
     text-transform: uppercase;
     letter-spacing: 0.2em;
     padding-left: 40px;
+    
 
 }
 .hyperlink span{
+    display: inline;
     background: url("img/arrow.png") no-repeat;
     background-position: 0 0;
     width: 199px;
