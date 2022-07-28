@@ -101,4 +101,5 @@ body{
     display: inline-block;
     background: url("img/arrow.png") no-repeat;
     background-position: 0 0;
+    max-width: 199px;
 }
