@@ -96,7 +96,8 @@ body{
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
-/* hyperlink span{
+.hyperlink span{
+    padding: 0 30px 0 0;
     background: url("img/arrow.png") no-repeat right;
 
 }
