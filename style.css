@@ -77,7 +77,7 @@ body{
 .hyperlink{
     display: inline-block;
     background-color: rgba(128,183,179,0.54);
-    bfont-family: Arial;
+    font-family: Arial;
     font-size: 14px;
     line-height: 40px;
     font-weight: 400;
