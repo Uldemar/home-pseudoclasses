@@ -78,6 +78,7 @@ body{
     max-height: 44px;
 }
 .hyperlink{
+    display: inline-block;
     background-color: rgba(128,183,179,0.54);
     font-family: Arial;
     font-size: 14px;
