@@ -106,3 +106,7 @@ body{
     padding-left: 40px;
     background-position: 162px 12px;
 }
+
+.hyperlink:hover {
+    background-color: #3a5856;
+}
