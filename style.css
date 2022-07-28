@@ -94,12 +94,9 @@ body{
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.2em;
-    margin: auto auto;
+    
     
 }
-/* hyperlink span{
-    
-    margin-left: 30px;
-    margin-top: 50%;
+.hyperlink span{
     background: url("img/arrow.png") no-repeat right rgba(128,183,179,0.54);
 }
