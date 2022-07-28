@@ -98,5 +98,5 @@ body{
     
 }
 .hyperlink span{
-    background: url("img/arrow.png") no-repeat right rgba(128,183,179,0.54);
+    background: url("img/arrow.png") no-repeat right;
 }
