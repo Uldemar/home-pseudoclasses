@@ -79,7 +79,7 @@ body{
     text-transform: initial;
 }
 
-.hyperlink{
+.hyperlink {
     display: inline-block;
     border-radius: 20px;
     border: #273d46 dotted;
