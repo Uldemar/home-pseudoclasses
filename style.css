@@ -73,7 +73,10 @@ body{
 .first-list li:nth-child(4):hover {
     text-transform: initial;
 }
-
+.link{
+    max-width: 199px;
+    max-height: 44px;
+}
 .hyperlink{
     background-color: rgba(128,183,179,0.54);
     font-family: Arial;
