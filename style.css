@@ -81,7 +81,6 @@ body{
 .link{
     max-width: 199px;
     max-height: 44px;
-    margin-left: 0px;
 }
 .hyperlink{
     display: inline-block;
@@ -91,7 +90,8 @@ body{
     height: 44px;
     box-shadow: 0px 6px 40px 0px rgba(128,183,179,0.54);
     background: url("img/arrow.png") no-repeat right rgba(128,183,179,0.54);
-    padding: 0 0 0 30;
+    width: 199px;
+    height: 44px;
 }
 hyperlink span{
     font-family: Arial;
