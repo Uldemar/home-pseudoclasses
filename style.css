@@ -76,7 +76,7 @@ body{
 .link{
     max-width: 199px;
     max-height: 44px;
-    margin-left: 315px;
+    margin-left: 0px;
 }
 .hyperlink{
     display: inline-block;
