@@ -61,7 +61,7 @@ body{
 
 .first-list li:nth-child(1):hover {
     font-family: Arial;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 36px;
     font-weight: 400;
     color: #273d46;
