@@ -102,5 +102,6 @@ body{
     background: url("img/arrow.png") no-repeat;
     background-position: 0 0;
     width: 199px;
+    height: 44px;
     padding: 50% 50%;
 }
