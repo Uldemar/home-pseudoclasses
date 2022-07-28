@@ -79,14 +79,7 @@ body{
 }
 .hyperlink{
     display: inline-block;
-    color: #ffffff;;
     background-color: rgba(128,183,179,0.54);
-    font-family: Arial;
-    font-size: 14px;
-    line-height: 40px;
-    font-weight: 400;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
     border-radius: 15px;
     width: 199px;
     height: 44px;
