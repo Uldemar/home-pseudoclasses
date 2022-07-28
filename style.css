@@ -84,14 +84,11 @@ body{
 }
 .hyperlink{
     display: inline-block;
-    background-color: rgba(128,183,179,0.54);
     border-radius: 15px;
     width: 199px;
     height: 44px;
     box-shadow: 0px 6px 40px 0px rgba(128,183,179,0.54);
     background: url("img/arrow.png") no-repeat right rgba(128,183,179,0.54);
-    width: 199px;
-    height: 44px;
 }
 hyperlink span{
     font-family: Arial;
