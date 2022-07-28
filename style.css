@@ -98,7 +98,7 @@ body{
 
 }
 .hyperlink span{
-    display: inline;
+    display: inline-block;
     background: url("img/arrow.png") no-repeat;
     background-position: 0 0;
     width: 199px;
