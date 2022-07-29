@@ -131,12 +131,10 @@ body{
 {
    content:"" ;
    display: inline-block;
-   background: url("img/arrow.png") no-repeat;
+   background: url("img/arrow.png") no-repeat center;
    width: 21px;
    height: 14px;
    margin-left: 11px;
-   padding-top: 15px;
-   padding-bottom: 15px;
 }
 
 .hyperlink:hover {
