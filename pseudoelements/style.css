@@ -160,3 +160,11 @@ body{
     color: #d55a5a;
 }
 
+.text-footer p:last-child:first-letter {
+    font-family: Arial;
+    font-size: 25px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #ff0000;
+}
+
