@@ -132,12 +132,10 @@ body{
     height: 44px;
     border: #273d46 dotted;
     padding-left: 30px;
-    margin-right: 10px;
 }
 .hyperlink span::after
 {
    content:"" ;
-   display: inline-block;
    background: url("img/arrow.png") no-repeat;
    width: 21px;
    height: 14px;
