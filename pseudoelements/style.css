@@ -156,7 +156,7 @@ body{
     max-width: 762px;
     margin-bottom: 43px;
 }
-.text-footer p:first-child(1)::first-line{
+.text-footer p:first-child:first-line {
     color: #d55a5a;
 }
 
