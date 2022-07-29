@@ -78,7 +78,6 @@ body{
     text-decoration: none;
 }
 .first-list li:nth-child(2):hover {
-    /*  */
     color: #d55a5a
 
 .first-list li:nth child(2):hover:before{
