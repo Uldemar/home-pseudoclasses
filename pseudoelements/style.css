@@ -62,8 +62,8 @@ body{
     max-width: fit-content;
 }
 
-.first-list li::before {
-    content: "";
+.first-list li:before {
+    content: "34";
     display: inline-block;
     background: url("img/check.png") no-repeat center left;
     
