@@ -124,12 +124,10 @@ body{
     text-transform: uppercase;
     letter-spacing: 0.2em;
     color: white;
-    margin-bottom: 124px;
     
 }
 .hyperlink span{
     display: inline-block;
-    
     background-position: 0 0;
     width: 199px;
     height: 44px;
