@@ -135,7 +135,7 @@ body{
 }
 .hyperlink span::after
 {
-   content: "234234";
+   content: "2";
    display: inline-block;
    background: url("img/arrow.png") no-repeat right;
    margin-left: 10px;
