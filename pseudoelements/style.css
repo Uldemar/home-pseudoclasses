@@ -106,6 +106,7 @@ body{
     display: inline-block;
     max-width: 199px;
     max-height: 44px;
+    margin-bottom: 118px;
 }
 .hyperlink {
     display: inline-block;
