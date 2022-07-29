@@ -64,7 +64,7 @@ body{
 
 .first-list li:before {
     content: "";
-    display: block;
+    display: inline-block;
     width: 25px;
     height: 19px;
     background: url("img/check.png") no-repeat left;
