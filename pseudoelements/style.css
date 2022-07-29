@@ -145,7 +145,7 @@ body{
     margin-bottom: 118px;
 }
 
-.text-footer {
+.text-footer p:nth-child(1) {
     border: 1px solid #7fbed5;
     box-shadow: 0px 0px 20px -1px rgba(127,190,213,0.93);
     font-family: Arial;
