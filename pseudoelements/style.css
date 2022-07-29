@@ -135,6 +135,7 @@ body{
    width: 21px;
    height: 14px;
    margin-left: 11px;
+   padding-top: 15px;
 }
 
 .hyperlink:hover {
