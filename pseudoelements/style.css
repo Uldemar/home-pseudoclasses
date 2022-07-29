@@ -140,6 +140,7 @@ body{
    margin-left: 11px;
    width: 21px;
    height: 14px;
+   margin-top: 1px;
 }
 
 .hyperlink:hover {
