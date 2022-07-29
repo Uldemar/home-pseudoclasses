@@ -129,11 +129,12 @@ body{
 }
 .hyperlink span::after
 {
-   content:"4356" ;
+   content:"" ;
    display: inline-block;
    background: url("img/arrow.png") no-repeat;
    width: 21px;
    height: 14px;
+   margin-left: 11px;
 }
 
 .hyperlink:hover {
