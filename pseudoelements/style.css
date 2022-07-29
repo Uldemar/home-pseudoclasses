@@ -62,8 +62,9 @@ body{
     max-width: fit-content;
 }
 
-.first-list li:before{
-    content: "url("pseudoelements/img/check.png")";
+.first-list li:before {
+    content: "";
+    background: url("pseudoelements/img/check.png")
     background: no-repeat center left;
 }
 
