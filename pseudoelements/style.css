@@ -68,7 +68,7 @@ body{
     background: url("img/check.png") no-repeat center left;
     margin-right: 10px;
     margin-left: 2px;
-}
+} /*вставили галочки фоном при помощи псевдоэлементом */
 
 .first-list{
     margin-bottom: 137px;
