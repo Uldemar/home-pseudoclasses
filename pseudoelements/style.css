@@ -137,7 +137,6 @@ body{
 {
    content: "234234";
    display: inline-block;
-   size: 21px 14px;
    background: url("img/arrow.png") no-repeat right;
    margin-left: 10px;
 }
