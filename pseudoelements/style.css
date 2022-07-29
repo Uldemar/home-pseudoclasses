@@ -63,7 +63,7 @@ body{
 }
 
 .first-list li:before {
-    content: "34";
+    content: "  ";
     display: inline-block;
     background: url("img/check.png") no-repeat center left;
     
