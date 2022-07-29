@@ -63,9 +63,11 @@ body{
 }
 
 .first-list li:before {
-    content: "";
-    background: url("pseudoelements/img/check.png")
-    background: no-repeat center left;
+    content:"<img src = "img/arrow.png">";
+    display: inline-block;
+    
+    
+    
 }
 
 
