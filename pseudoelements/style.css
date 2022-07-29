@@ -138,8 +138,8 @@ body{
    content:"" ;
    display: inline-block;
    background: url("img/arrow.png") no-repeat;
-   width: auto;
-   height: auto;
+   width: 21px;
+   height: 14px;
 }
 
 .hyperlink:hover {
