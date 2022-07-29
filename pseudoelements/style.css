@@ -83,6 +83,9 @@ body{
 
 .first-list list-style: nth child(2) :hover :before{
     content: ("");
+    display: inline-block;
+    width: 25px;
+    height: 19px;
     background: url("img/check_red.png") no-repeat center left;
 
 }
