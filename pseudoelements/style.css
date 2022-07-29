@@ -81,7 +81,7 @@ body{
     /*  */
     color: #d55a5a
 
-.first-list list-style: nth child(2) :hover :before{
+.first-list list-style:nth child(2):hover:before{
     content: ("");
     display: inline-block;
     width: 25px;
