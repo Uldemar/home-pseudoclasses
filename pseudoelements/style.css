@@ -67,7 +67,7 @@ body{
     display: inline-block;
     width: 25px;
     height: 19px;
-    background: url("img/check.png") no-repeat center left;
+    background: url("img/check.png") no-repeat left;
     margin-left: 0;
     padding-left: 0;
 }
