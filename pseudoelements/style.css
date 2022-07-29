@@ -68,7 +68,7 @@ body{
     width: 25px;
     height: 19px;
     background: url("img/check.png") no-repeat center left;
-    
+    background-position: left;
 }
 
 
