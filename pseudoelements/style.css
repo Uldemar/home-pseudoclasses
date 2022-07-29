@@ -157,6 +157,10 @@ body{
     margin-bottom: 43px;
 }
 .text-footer p:first-child:first-line {
+    font-family: Arial;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
     color: #ff0000;
 }
 
