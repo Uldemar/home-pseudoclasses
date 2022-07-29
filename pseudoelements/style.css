@@ -135,10 +135,10 @@ body{
 }
 .hyperlink span::after
 {
-   content: "23";
+   content: "";
    background: url("img/arrow.png") no-repeat;
-   width: 21px;
-   height: 14px;
+   min-width: 21px;
+   min-height: 14px;
    margin-left: 10px;
 }
 
