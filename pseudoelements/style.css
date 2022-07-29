@@ -86,7 +86,8 @@ body{
     width: 25px;
     height: 19px;
     background: url("img/check_red.png") no-repeat center left;
-
+    margin-right: 10px;
+    margin-left: 2px;
 }
 
 
