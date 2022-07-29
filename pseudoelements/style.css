@@ -63,7 +63,8 @@ body{
 }
 
 .first-list li:before{
-    content: "url("/pseudoelements/img/check.png")";
+    content: "url("pseudoelements/img/check.png")";
+    background: no-repeat center left;
 }
 
 
