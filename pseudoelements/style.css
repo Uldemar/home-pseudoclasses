@@ -139,8 +139,6 @@ body{
    background: url("img/arrow.png") no-repeat center;
    width: 21px;
    height: 14px;
-   margin-left: 11px;
-   margin-top: 50%;
 }
 
 .hyperlink:hover {
