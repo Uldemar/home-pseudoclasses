@@ -130,6 +130,7 @@ body{
 hyperlink span::after
 {
    content:"" ;
+   display: inline-block;
    background: url("img/arrow.png") no-repeat;
    size: 21px 14px;
 }
