@@ -137,7 +137,7 @@ body{
 {
    content: "";
    display: inline-block;
-   background: url("img/arrow.png") no-repeat;
+   background: url("img/arrow.png") no-repeat center center;
    margin-left: 11px;
    border: #273d46 dotted;
    width: 21px;
