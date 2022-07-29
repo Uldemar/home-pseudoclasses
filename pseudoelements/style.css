@@ -61,6 +61,15 @@ body{
     border: #273d46 dotted;
     max-width: fit-content;
 }
+
+.first-list li:before{
+    content: "url("/pseudoelements/img/check.png")";
+}
+
+
+
+
+
 .first-list{
     margin-bottom: 137px;
 }
