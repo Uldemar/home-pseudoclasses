@@ -135,11 +135,13 @@ body{
 }
 .hyperlink span::after
 {
-   content: "2";
+   content: "";
    display: inline-block;
    background: url("img/arrow.png") no-repeat right;
    margin-left: 10px;
    border: #273d46 dotted;
+   width: 21px;
+   height: 14px;
 }
 
 .hyperlink:hover {
