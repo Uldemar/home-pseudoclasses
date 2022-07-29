@@ -127,7 +127,7 @@ body{
     padding-left: 40px;
     background-position: 162px 12px;
 }
-hyperlink span::after
+.hyperlink span::after
 {
    content:"" ;
    display: inline-block;
