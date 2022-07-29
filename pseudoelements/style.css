@@ -63,7 +63,7 @@ body{
 }
 
 .first-list li:before {
-    content: "  ";
+    content: "галочка";
     display: inline-block;
     background: url("img/check.png") no-repeat center left;
     
