@@ -140,6 +140,7 @@ body{
    background: url("img/arrow.png") no-repeat;
    width: 21px;
    height: 14px;
+   background-position: 50% 50%;
 }
 
 .hyperlink:hover {
