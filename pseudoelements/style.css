@@ -56,7 +56,6 @@ body{
 .first-list li{
     margin-bottom: 13px;
     /* background: url("img/check.png") no-repeat center left; */
-    padding: 0 0 0 30px;
     background-size: 25px auto;
     border: #273d46 dotted;
     max-width: fit-content;
