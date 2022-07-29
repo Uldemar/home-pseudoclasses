@@ -132,6 +132,7 @@ body{
     height: 44px;
     border: #273d46 dotted;
     padding-left: 30px;
+    margin-right: 10px;
 }
 .hyperlink span::after
 {
