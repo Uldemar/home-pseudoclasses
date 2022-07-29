@@ -130,7 +130,6 @@ body{
     display: inline-block;
     width: 199px;
     height: 44px;
-    border: #273d46 dotted;
     padding-left: 30px;
 }
 .hyperlink span::after
@@ -139,7 +138,6 @@ body{
    display: inline-block;
    background: url("img/arrow.png") no-repeat center center;
    margin-left: 11px;
-   border: #273d46 dotted;
    width: 21px;
    height: 14px;
 }
